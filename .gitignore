@@ -9,6 +9,7 @@
 # production
 /build
 /public
+class
 
 # next.js cache directory
 .next
